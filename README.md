@@ -42,8 +42,8 @@ Includes authentication, validation, error handling, and Swagger documentation.
 
 ```bash
 # 1. Clone
-git clone https://github.com/ddiagilevv/zoftify-nestjs.git
-cd zoftify-nestjs
+git clone https://github.com/ddiagilevv/zoftify.git
+cd zoftify
 
 # Copy environment variables
 cp .env.example .env
@@ -63,8 +63,8 @@ sudo docker-compose up --build
 
 ```bash
 # 1. Clone
-git clone https://github.com/ddiagilevv/zoftify-nestjs.git
-cd zoftify-nestjs
+git clone https://github.com/ddiagilevv/zoftify.git
+cd zoftify
 
 # 2. Install dependencies
 npm install --legacy-peer-deps
